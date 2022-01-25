@@ -1,3 +1,2 @@
 - Hi, I’m @chmarcos
 - I’m interested in genomics and bioinformatics
-- I’m currently learning deep learning and working analyzing transcriptomic data
