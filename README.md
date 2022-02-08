@@ -1,2 +1,1 @@
-- Hi, I’m @chmarcos
-- I’m interested in genomics and bioinformatics
+- Marcos Chiñas Hernandez
